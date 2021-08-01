@@ -1,7 +1,6 @@
 v Staff Roles v
 
 Owner          ---->  Team AJ. Discord: AJITESH#7286 UID: 745512550602637342
-
 Management     ---->  Looks after all core activities related to AJITESH and team his team.
 Staff Team     ---->  Manages the server with rules and regulations. They have the right to take the necessary action against the offender.
 Youtube Team   ---->  Our youtube squad.
