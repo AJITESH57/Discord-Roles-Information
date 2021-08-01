@@ -11,4 +11,4 @@ Discord Employees ----> Ones who work at Discord.
 Honourable Guest  ----> Recognized members of the community or special guest of the server.
 Nitro Booster		  ---->	The one who blesses this server by boosting.
 Developer	        ---->	Creator of bots which are being used in this server.
-Designer	        ---->	Ones who regularly does gfx or vfx work for Team AJ.a
+Designer	        ---->	Ones who regularly does gfx or vfx work for Team AJ.
